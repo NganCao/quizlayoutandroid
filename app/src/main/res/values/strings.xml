@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string-array name="spinner1">
+        <item name="vHs">Học Sinh</item>
+        <item name="vSv">Sinh Viên</item>
+        <item name="vDl">Đi làm</item>
+    </string-array>
+
+    <string-array name="spinner2">
+        <item name="vNam">Nam</item>
+        <item name="vNu">Nữ</item>
+        <item name="vKhac">Khác</item>
+    </string-array>
+
+    <string-array name="spinner3">
+        <item name="vSo">Sony</item>
+        <item name="vAp">Apple</item>
+        <item name="vSa">Samsung</item>
+        <item name="vXi">Xiaomi</item>
+    </string-array>
+
+    <string-array name="ListVỉew">
+        <item name="vSo">1 đúng</item>
+        <item name="vAp">2 đúng</item>
+        <item name="vSa">2 đúng</item>
+        <item name="vXi">1 đúng</item>
+    </string-array>
+
+</resources>
+
